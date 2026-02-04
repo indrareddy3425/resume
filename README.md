@@ -1,7 +1,7 @@
 %-------------------------
 % Resume in Latex
 % Author : Abey George
-% Based off of: [https://github.com/sb2nov/resume](https://github.com/indrareddy3425/resume.git)
+% Based off of: [https://github.com/indrareddy3425/resume.git]
 % License : MIT
 %------------------------
 
