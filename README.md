@@ -226,11 +226,6 @@ Percentage: 94\%
     \item Digital Electronics – Udemy.
 \end{itemize}
 
-% ------------------ ACHIEVEMENTS ------------------
-\section{ACHIEVEMENTS}
-\begin{itemize}
-    \item Completed 1200+ programming problems on SkillRack, strengthening problem-solving and logical thinking
-skills.
 
 
 \end{document}
